@@ -1,6 +1,6 @@
 # JavaScript Shorthand 
 
-Use this file to save time while coding in JavaScript. It has a collection of necessary functions and handy tricks to increase efficiency and reduce clutter within your code. 
+Use the file above (shorthand.js) to save time while coding in JavaScript. It has a collection of necessary functions and handy tricks to increase efficiency and reduce clutter within your code. 
 
 Directions to get started:
 1. Add this file to your project folder via copy/paste, upload, etc.
